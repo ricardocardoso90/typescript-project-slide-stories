@@ -1,14 +1,16 @@
-# Projeto Slide Stories.
+## Projeto: Slide Stories
 
-Projeto desenvolvido durante o Curso B7Web. 
+**Tecnologias utilizadas:**
 
-Tecnologias utilizadas: HTML, CSS e TypeScript.
+- [HTML]()
+- [Typescript]()
+- [CSS]()
+- [Sass]()
 
-<!-- ### Instalação:
+## Instalação:
 
-- `npm install` -->
+- `npm i ou npm install`
 
-### Para rodar:
+## Para rodar:
 
-- `Eu uso a extensão Live Server`
-- `Também pode ser executado direto pelo arquivo HTML`
+- `Live Server`
